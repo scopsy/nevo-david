@@ -2,8 +2,6 @@
 
 🙏🏻 I love coding and spending my time writing open-source code.
 
-🤩 I have 3 amazing dogs that help me to code.
-
 😇 I have never used git pull in my life, only fetch and merge.
 
 😊 I am a digital nomad, guess where I am right now?
